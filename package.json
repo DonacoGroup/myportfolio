@@ -1,7 +1,6 @@
 {
   "name": "expose8",
   "version": "1.0.0",
-  "homepage": "http://donacogroup.github.io/myportfolio",
   "private": true,
   "dependencies": {
     "@ashvin27/react-datatable": "^1.5.3",
