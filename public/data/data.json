@@ -1,0 +1,38 @@
+{
+  "personal": {
+    "fullname": "Festus D. CODJO",
+    "title": "Product Engineering & Manahement Consultant",
+    "email": "",
+    "mobile": "",
+    "birthdate": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "photo": "",
+    "facebook": "[]",
+    "instagram": "[]",
+    "linkedin": "[]",
+    "twitter": "[]",
+    "github": "[]",
+    "youtube": "[]",
+    "gitlab": "[]"
+    },
+  "profile": {
+    "about": "",
+    "skills": [
+      {"name": "", "slug": "","rate": ""}
+    ],
+    "language": [
+      {"name": "", "slug": "","rate": ""}
+    ],
+    "education": [""],
+    "experience": [
+      {"title": "", "slug": "", "description":"","period":"","company":"","country":"","logo": ""}
+    ],
+    "papers": [],
+    "articles": []
+  },
+  "portfolio": [
+    {"name": "", "slug": "", "description":"","activity":[],"photo": ""}
+  ]
+}

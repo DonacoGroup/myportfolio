@@ -1,0 +1,235 @@
+{
+  "environment":"dev",
+  "server":"offline",
+  "personal": {
+    "fullname": "Festus D. CODJO",
+    "title": "Product Engineering & Management Consultant",
+    "email": "codjo.festus@gmail.com",
+    "mobile": "",
+    "birthdate": "13 Oct, 1991",
+    "address": "",
+    "city": "COTONOU",
+    "country": "BENIN",
+    "postal": "",
+    "photo": "7.jpg",
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/festus-d-codjo-15727893/",
+    "twitter": "",
+    "github": "",
+    "youtube": "",
+    "gitlab": ""
+  },
+  "profile": {
+    "about": "<p>Ever since a kid, I've always been passionated and very curious about engineering and technology. That lead me to learn from various sources from academic to internet tutorials about software engineering, cybersecurity engineering and obtained a degree in Information Technology.</p><p>Since then, I've grown to be a seasoned, hard worker and skilled problem solver with:<ul><li>10+ years of experience in Web development</li><li>5+ years of experience in Android development</li><li>5+ years of experience in API development</li><li>2+ years of experience in Leadership</li><li>1+ year of experience in Product management</li></ul></p>",
+    "skills": [
+      {"name": "Web Development", "slug": "web-development","type": "default"},
+      {"name": "API Development", "slug": "api-development","type": "default"},
+      {"name": "Android Development", "slug": "android-development","type": "default"},
+      {"name": "Intranet Development", "slug": "android-development","type": "default"},
+      {"name": "Desktop Development", "slug": "android-development","type": "default"},
+      {"name": "Quality Assurance", "slug": "quality-assurance","type": "default"},
+      {"name": "Vulnerability Research", "slug": "vulnerability-research","type": "default"},
+      {"name": "Graphic Design", "slug": "graphic-design","type": "default"},
+      {"name": "Product Management", "slug": "product-management","type": "default"},
+      {"name": "Leadership", "slug": "leadership","type": "default"}
+    ],
+    "language": [
+      {"name": "French", "slug": "french","rate": "1"},
+      {"name": "English", "slug": "english","rate": "1"}
+    ],
+    "education": [""],
+    "experience": [
+      {
+        "title": "",
+        "slug": "donaco-sarl",
+        "description":"<p>
+        <small className='text-muted company-university'>Product Manager, 2020 - Present</small>
+        <p className='text-muted mt-2 mb-0'>
+        <b>Projects:</b>
+        <h6>Technologies:</h6>
+        <h6>Activities:</h6>
+        </p>
+        </p>
+        ",
+        "period":"2020 - Present",
+        "company":"DONACO SARL",
+        "country":"",
+        "logo": "donaco.png"
+      },
+      {
+        "title": "",
+        "slug": "freelance",
+        "description":"
+        <p><small className='text-muted company-university'>Software Engineer, 2010 - Present</small>
+        <p className='text-muted mt-2 mb-0'>
+        <b>Projects:</b>
+        <h6>Technologies:</h6>
+        <h6>Activities:</h6>
+        </p></p>
+        ",
+        "period":"2010 - Present",
+        "company":"Freelance",
+        "country":"",
+        "logo": "placeholder.png"
+      },
+      {
+        "title": "",
+        "slug": "dmd-sarl",
+        "description":"<p><small className='text-muted company-university'>2015 - 2020</small><p className='text-muted mt-2 mb-0'><small><b>Projects: </b>Satis Pro, Satis Hub, Satis Macro, Satis Mobile</small><br><small><b>Technologies: </b>Html, Javascript, Php, Laravel, Symfony</small><p><small className='text-muted company-university'>Fullstack Web & Android Developer, 2015 - 2018</small><small><br><b>Activities: </b><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></small></p></p></p><p><small className='text-muted company-university'>Head of Research & Development, 2018 - 2019</small><p className='text-muted mt-2 mb-0'><br><br><small><b>Activities: </b><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></small></p></p><p><small className='text-muted company-university'>Head of Production Department, 2019</small><p className='text-muted mt-2 mb-0'><small><b>Activities: </b><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></small></p></p><p><small className='text-muted company-university'>Head of Production & Exploitation Departments, 2019 - 2020</small><p className='text-muted mt-2 mb-0'><small>Projects:</small><br><small><b>Technologies: </b></small><br><small><b>Activities: </b><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></small></p></p>",
+
+
+        "period":"2015 - 2020",
+        "company":"DMD SARL",
+        "country":"",
+        "logo": "dmd.png"
+      }
+    ],
+    "papers": [],
+    "articles": []
+  },
+  "portfolio": [
+    {
+      "name": "Expose8",
+      "slug": "expose8",
+      "year": "2021",
+      "description":"Simple, modern web portfolio content management system  to help talents expose their work to the world.",
+      "activity":[],
+      "cover": "expose.png",
+      "category": "web"
+    },
+    {
+      "name": "Chronos",
+      "slug": "chronos",
+      "year": "2021",
+      "description":"Content Management System with the vision of optimizing considerably the development time of resources consuming web applications.",
+      "activity":[],
+      "cover": "chronos.png",
+      "category": "web"
+    },
+    {
+      "name": "GPR",
+      "slug": "gpr",
+      "year": "2021",
+      "description":"Intranet application for managing consumer complaints, whistleblows and suggestions.",
+      "activity":[],
+      "cover": "gpr.png",
+      "category": "desktop"
+    },
+    {
+      "name": "Portfolix",
+      "slug": "portfolix",
+      "year": "2020",
+      "description":"Online Professional Portfolio Management Platform and Network of Professionals",
+      "activity":[],
+      "cover": "portfolix_web_portfolio_print2.jpg",
+      "category": "web"
+    },
+    {
+      "name": "Archdiochese of Dakar",
+      "slug": "archdioceseofdakar",
+      "year": "2019",
+      "description":"Website that present the Archdiocese of Dakar, publish their activities, news, donations, events and an API to interface with their mobiles apps.",
+      "activity":[],
+      "cover": "archidak_web_portfolio_print.jpg",
+      "category": "web"
+    },
+    {
+      "name": "Sima",
+      "slug": "sima",
+      "year": "2019",
+      "description":"Management and control system for site visits",
+      "activity":[],
+      "cover": "sima_web_portfolio_print.jpg",
+      "category": "web"
+    },
+    {
+      "name": "Becloser Web",
+      "slug": "becloser-web",
+      "year": "2018",
+      "description":"Management of socio-professional relationships.",
+      "activity":[],
+      "cover": "becloser_web_portfolio_print3.jpg",
+      "category": "web"
+    },
+    {
+      "name": "Becloser Android",
+      "slug": "becloser-android",
+      "year": "2017",
+      "description":"Management of socio-professional relationships.",
+      "activity":[],
+      "cover": "becloser_portfolio_print.jpg",
+      "category": "android"
+    },
+    {
+      "name": "Evivi",
+      "slug": "evivi",
+      "year": "2017",
+      "description":"Dating app.",
+      "activity":[],
+      "cover": "evivi_portfolio_print.jpg",
+      "category": "android"
+    },
+    {
+      "name": "Troclivre",
+      "slug": "troclivre",
+      "year": "2016",
+      "description":"Platform for exchanging books",
+      "activity":[],
+      "cover": "troclivre_web_portfolio_print2.jpg",
+      "category": "web"
+    },
+    {
+      "name": "Amilo Web",
+      "slug": "amilo-web",
+      "year": "2016",
+      "description":"Managing help requests in gas, in mechanical assistance; purchase of spare parts; and geolocation of gasoline stations, garages and parts sales shops.",
+      "activity":[],
+      "cover": "amilo_web_portfolio_print3.jpg",
+      "category": "web"
+    },
+    {
+      "name": "Amilo Android",
+      "slug": "amilo-android",
+      "year": "2016",
+      "description":"Managing help requests in gas, in mechanical assistance; purchase of spare parts; and geolocation of gasoline stations, garages and parts sales shops.",
+      "activity":[],
+      "cover": "amilo_portfolio_print.jpg",
+      "category": "android"
+    },
+    {
+      "name": "Rainbow Android",
+      "slug": "rainbow-android",
+      "year": "2015",
+      "description":"Monitoring changes in the weather.",
+      "activity":[],
+      "cover": "rainbow_portfolio_print.jpg",
+      "category": "android"
+    },
+    {
+      "name": "Exposure Android",
+      "slug": "exposure-android",
+      "year": "2015",
+      "description":"Showcasing local company's informations, products, services, events and news",
+      "activity":[],
+      "cover": "exposure_portfolio_print.jpg",
+      "category": "android"
+    },
+    {
+      "name": "PastQ",
+      "slug": "pastq-android",
+      "year": "2014",
+      "description":"Managing past exams questions and exercises categorized by year, exam, subject, subject, access to text format for the purposes of exploratory and predictive analysis",
+      "activity":[],
+      "cover": "pastq_portfolio_print.jpg",
+      "category": "android"
+    }
+  ],
+  "messages": [
+
+  ],
+  "settings": {
+    "category":[
+      {"name":"Web", "slug":"web"},{"name":"Android", "slug":"android"},{"name":"Desktop", "slug":"desktop"} ]
+  }
+}
