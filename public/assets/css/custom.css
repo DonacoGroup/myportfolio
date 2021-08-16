@@ -120,3 +120,27 @@
     background: rgba(255, 204, 102, 0.1);
     color: #fe6e4d;
 }
+@keyframes moveSlideshow{100%{transform:translateX(-45%)}}
+@keyframes spinner-animation{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+@keyframes slideleft{from{background-position:0%}to{background-position:90000%}}
+@keyframes animate-positive{0%{width:0}}
+@keyframes sk-bounce{0%,100%{transform:scale(0)}50%{transform:scale(1)}}
+@keyframes mover{0%{transform:translateY(0)}100%{transform:translateY(5px)}}
+
+.spinner-border {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    vertical-align: -.125em;
+    border: .25em solid currentColor;
+    border-right-color: transparent;
+    border-radius: 50%;
+    -webkit-animation: .75s linear infinite spinner-border;
+    animation: .75s linear infinite spinner-border;
+    opacity: 0;
+    visibility: hidden;
+
+}
+.text-warning {
+    color: #fecb68 !important;
+}

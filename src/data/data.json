@@ -19,18 +19,20 @@
     "github": "",
     "youtube": "",
     "gitlab": "",
-    "cv": "cv_13082021_en.pdf"
+    "cv": "CV_Photo_13082021_en.pdf"
   },
   "profile": {
-    "about": "<p>Ever since a kid, I've always been passionated and very curious about engineering and technology. That lead me to learn from various sources from academic to internet tutorials about software engineering, cybersecurity engineering and obtained a degree in Information Technology.</p><p>Since then, I've grown to be a seasoned, hard worker, skilled problem solver and a continuous learner with:<ul><li>10+ years of experience in Web development</li><li>5+ years of experience in Android development</li><li>5+ years of experience in API development</li><li>2+ years of experience in Leadership</li><li>1+ year of experience in Product management</li></ul></p>",
+    "about": "<p>Ever since a kid, I've always been passionated and very curious about engineering and technology. That led me to learn from various sources from academic to internet tutorials about software engineering, cybersecurity engineering and obtained a degree in Information Technology.</p><p>Since then, I've grown to be a seasoned, hard worker, skilled problem solver and a continuous learner with:<ul><li>10+ years of experience in Software Architecture</li><li>10+ years of experience in Web development</li><li>5+ years of experience in Android development</li><li>5+ years of experience in API development</li><li>2+ years of experience in Leadership</li><li>1+ year of experience in Product management</li><li>1+ year of experience in Cloud DevOps</li></ul></p>",
     "skills": [
+      {"name": "Software Architecture", "slug": "software-architecture","type": "default"},
       {"name": "Web Development", "slug": "web-development","type": "default"},
       {"name": "API Development", "slug": "api-development","type": "default"},
       {"name": "Android Development", "slug": "android-development","type": "default"},
-      {"name": "Intranet Development", "slug": "android-development","type": "default"},
-      {"name": "Desktop Development", "slug": "android-development","type": "default"},
+      {"name": "Intranet Development", "slug": "intranet-development","type": "default"},
+      {"name": "Desktop Development", "slug": "desktop-development","type": "default"},
       {"name": "Quality Assurance", "slug": "quality-assurance","type": "default"},
       {"name": "Vulnerability Research", "slug": "vulnerability-research","type": "default"},
+      {"name": "Cloud DevOps", "slug": "cloud-devOps","type": "default"},
       {"name": "Graphic Design", "slug": "graphic-design","type": "default"},
       {"name": "Product Management", "slug": "product-management","type": "default"},
       {"name": "Leadership", "slug": "leadership","type": "default"}
@@ -44,7 +46,7 @@
       {
         "title": "",
         "slug": "donaco-sarl",
-        "description":"<p><small className='text-muted company-university'>Product Manager, 2020 - Present</small><p className='text-muted mt-2 mb-0'><small><b>Projects: </b>Chronos, Expose8</small><br><small><b>Technologies: </b> React, Java, Spring Boot Servlet</small><br><small><b>Activities: </b><ul><li>Set product vision</li><li>Build product roadmap</li><li>Define product requirements</li><li>Coordinate all activities related to the management of our products<br> from production to distribution, including follow-up and customer support.</li></ul></small></p></p>",
+        "description":"<p><small className='text-muted company-university'>Product Manager, 2020 - Present</small><p className='text-muted mt-2 mb-0'><small><b>Projects: </b>Chronos, Expose8</small><br><small><b>Technologies: </b> Javascript, React, Java, Spring Boot Servlet, Spring Boot Reactive, RSocket</small><br><small><b>Activities: </b><ul><li>Set product vision</li><li>Build product roadmap</li><li>Define product requirements</li><li>Coordinate all activities related to the management of our products<br> from production to distribution, including follow-up and customer support.</li></ul></small></p></p>",
         "period":"2020 - Present",
         "company":"DONACO SARL",
         "country":"",

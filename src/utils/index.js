@@ -86,6 +86,38 @@ export const tobiiLightbox = () =>{
 
     }
 }
+
+export const startPreloader = () => {
+    if(document.getElementById('preloader')){
+        document.getElementById('preloader').style.visibility = 'visible';
+        document.getElementById('preloader').style.opacity = '1';
+    }
+}
+
+export const stopPreloader = () => {
+    if(document.getElementById('preloader')){
+        document.getElementById('preloader').style.visibility = 'hidden';
+        document.getElementById('preloader').style.opacity = '0';
+    }
+}
+
+export const startSpinner = () => {
+    if(document.querySelector('#contact-btn .spinner-border')){
+        document.querySelector('#contact-btn .spinner-border').style.visibility = 'visible';
+        document.querySelector('#contact-btn .spinner-border').style.opacity = '1';
+    }
+}
+
+export const stopSpinner = () => {
+    if(document.querySelector('#contact-btn .spinner-border')){
+        document.querySelector('#contact-btn .spinner-border').style.visibility = 'hidden';
+        document.querySelector('#contact-btn .spinner-border').style.opacity = '0';
+    }
+}
+
+export const fixPortfolio = () => {
+    document.querySelector('#fix-portfolio').click()
+}
 export const loadItemFromLocalStorage = (field) => {
     try {
         const serializedItem = localStorage.getItem(field)

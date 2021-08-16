@@ -1,13 +1,12 @@
 import {useEffect} from "react";
-import {galleryFilter, saveItemToLocalStorage, tobiiLightbox} from "../utils"
+import {fixPortfolio, galleryFilter, saveItemToLocalStorage, tobiiLightbox} from "../utils"
 import data from "../data/data.json";
 function Portfolio() {
-    //Set Menu item once
-    saveItemToLocalStorage("portfolio", "menu-item")
     useEffect(() => {
         galleryFilter();
         tobiiLightbox();
     },[])
+
     return (
         <div className="ms-lg-4">
             <div className="row justify-content-center">
@@ -20,7 +19,8 @@ function Portfolio() {
                             {
                                 data.settings.category.map(category =>
                                     <li className="list-inline-item categories-name border text-dark rounded" data-group={category.slug}>{category.name}</li>
-                            )}
+                                )
+                            }
                         </ul>
                     </div>
                 </div>
