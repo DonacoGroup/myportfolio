@@ -18,10 +18,11 @@
     "twitter": "",
     "github": "",
     "youtube": "",
-    "gitlab": ""
+    "gitlab": "",
+    "cv": "cv_13082021_en.pdf"
   },
   "profile": {
-    "about": "<p>Ever since a kid, I've always been passionated and very curious about engineering and technology. That lead me to learn from various sources from academic to internet tutorials about software engineering, cybersecurity engineering and obtained a degree in Information Technology.</p><p>Since then, I've grown to be a seasoned, hard worker and skilled problem solver with:<ul><li>10+ years of experience in Web development</li><li>5+ years of experience in Android development</li><li>5+ years of experience in API development</li><li>2+ years of experience in Leadership</li><li>1+ year of experience in Product management</li></ul></p>",
+    "about": "<p>Ever since a kid, I've always been passionated and very curious about engineering and technology. That lead me to learn from various sources from academic to internet tutorials about software engineering, cybersecurity engineering and obtained a degree in Information Technology.</p><p>Since then, I've grown to be a seasoned, hard worker, skilled problem solver and a continuous learner with:<ul><li>10+ years of experience in Web development</li><li>5+ years of experience in Android development</li><li>5+ years of experience in API development</li><li>2+ years of experience in Leadership</li><li>1+ year of experience in Product management</li></ul></p>",
     "skills": [
       {"name": "Web Development", "slug": "web-development","type": "default"},
       {"name": "API Development", "slug": "api-development","type": "default"},

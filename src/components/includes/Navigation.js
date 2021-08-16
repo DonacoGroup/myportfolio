@@ -1,7 +1,8 @@
 import {NavLink} from "react-router-dom";
 import React, {useEffect} from "react";
 import {loadItemFromLocalStorage, saveItemToLocalStorage} from "../../utils";
-
+import {HOST} from "../../utils/globals";
+import data from "../data/data.json";
 function Navigation(){
     let menuItem = loadItemFromLocalStorage("menu-item")
     useEffect(() => {
@@ -35,7 +36,7 @@ function Navigation(){
                     </NavLink>
                 </li>
                 <li className="navbar-item account-menu px-0 mt-2">
-                    <a href="javascript:void(0)" className="btn btn-soft-primary w-100"><i className="uil uil-print"></i> Download CV</a>
+                    <a href={"uploads/cv/"+data.personal.cv} className="btn btn-soft-primary w-100" target="_blank"><i className="uil uil-print"></i> Download CV</a>
                 </li>
             </ul>
         </div>
