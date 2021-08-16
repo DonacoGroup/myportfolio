@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from 'react';
-import {BrowserRouter, Route, Switch, Redirect} from "react-router-dom";
+import {BrowserRouter, Route, Switch, Redirect, HashRouter} from "react-router-dom";
 import {Link, NavLink} from "react-router-dom";
 import Profile from "../components/Profile"
 import Portfolio from "../components/Portfolio"
@@ -15,7 +15,7 @@ import {loadItemFromLocalStorage} from "../utils/"
 function Main() {
 
     return (
-        <BrowserRouter>
+        <HashRouter>
         <section className="section mt-60">
         <div className="container mt-lg-3">
         <div className="row">
@@ -52,7 +52,7 @@ function Main() {
     </div>
     </div>
     </section>
-    </BrowserRouter>
+    </HashRouter>
 );
 }
 
