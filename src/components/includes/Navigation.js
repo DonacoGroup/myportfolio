@@ -2,7 +2,7 @@ import {NavLink} from "react-router-dom";
 import React, {useEffect} from "react";
 import {loadItemFromLocalStorage, saveItemToLocalStorage} from "../../utils";
 import {HOST} from "../../utils/globals";
-import data from "../data/data.json";
+import data from "../../data/data.json";
 function Navigation(){
     let menuItem = loadItemFromLocalStorage("menu-item")
     useEffect(() => {
