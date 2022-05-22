@@ -144,3 +144,5 @@
 .text-warning {
     color: #fecb68 !important;
 }
+::-moz-selection { background: #fecb68;color:#000; }
+::selection { background: #fecb68;color:#000; }

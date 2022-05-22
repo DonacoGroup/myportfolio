@@ -4,7 +4,7 @@ function Header() {
         <header id="topnav" className="defaultscroll sticky">
             <div className="container">
 
-                <a className="logo" href="index.html">
+                <a className="logo" href="#">
         <span className="logo-light-mode">
         <img src="assets/images/expose8_oy.png" className="l-dark" height="24" alt=""/>
         <img src="assets/images/expose8_wy.png" className="l-light" height="24" alt=""/>

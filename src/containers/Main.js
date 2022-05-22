@@ -33,7 +33,7 @@ function Main() {
                         </ul>
                     </div>
         
-                    <Navigation></Navigation>
+                    <Navigation />
                 </div>
             </div>
 
