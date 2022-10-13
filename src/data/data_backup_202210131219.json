@@ -3,7 +3,7 @@
   "server":"offline",
   "personal": {
     "fullname": "Festus D. CODJO",
-    "title": "Cloud Application Architect",
+    "title": "Senior Software Engineering Consultant",
     "email": "codjo.festus@gmail.com",
     "mobile": "",
     "birthdate": "13th Oct, 1991",
@@ -16,27 +16,25 @@
     "instagram": "",
     "linkedin": "https://www.linkedin.com/in/festus-d-codjo-15727893/",
     "twitter": "",
-    "github": "https://www.github.com/donacogroup/",
+    "github": "",
     "youtube": "",
     "gitlab": "",
-    "uploads_dir": "uploads/",
-    "cv": ";"
+    "cv": "CV_FullstackDeveloper_En.pdf;CV_FullstackDeveloper_Fr.pdf"
   },
   "profile": {
-    "about": "<p><small>I am a cloud application architect, I am responsible for architecting, building and deploying, scalable, highly available, cloud-optimized application solutions that leverage AWS services in an agile and continuous integration/continuous deployment environment.</small></p> <p><small>Prior to this, I was a software development lead at a consulting firm, where I built enterprise level web and mobile applications for digitally transforming the 8th principle of consumer protection in inclusive and responsible finance of “the smart campaign”: Mechanisms for Complaints Resolution.</small></p> <p><small>In my spare time, I work on a serverless digital platform that aims to enable people in efficiently managing, developing and exposing their talent to the world by providing them with the right tools to do so efficiently and productively. </small></p> <p style='display:none'><small> Skills: Serverless, AWS , Docker, Kubernetes, Java, Spring Boot, JavaScript, Typescript, NodeJS, PHP, Laravel, React.</small></p>",
+    "about": "<p><small>I believe I am a person with good moral et ethics. I value honesty, hard work, skilled problem solver, empathy, continuous learn and improvement, infinite mindset and I don't scare easy when it comes to new challenges, in fact I love new challenges because they actually trigger growth. In face of new challenges, I learn to remain calm and only think about who i will become when I make it through and then it gives me courage to take them on.</small><p><small>I've been building software for more than 10 years back when I was in college and actually started a career as Software Engineer in 2014 right after my bachelor degree.</small></p><p><small>I am currently seeking an opportunity to better further my career and contribute to the development of product(s) that solve world class level challenges.</small></p><p><small>I am a Software Engineering Consultant with experience in:<ul><li>10+ years of experience in Software Architecture</li><li>10+ years of experience in Web development</li><li>5+ years of experience in Writing software requirements specification document</li><li>5+ years of experience in Android development</li><li>5+ years of experience in REST API development</li><li>5+ years of experience in Manual and Automated testing</li><li>2+ years of experience in Agile practices</li><li>1+ year of experience in Cloud DevOps</li></ul></small></p>",
     "skills": [
-      {"name": "Serverless Framework", "slug": "serverless-framework","type": "default"},
-      {"name": "AWS", "slug": "aws","type": "default"},
-      {"name": "Docker", "slug": "docker","type": "default"},
-      {"name": "Kubernetes", "slug": "kubernetes","type": "default"},
-      {"name": "Java", "slug": "java","type": "default"},
-      {"name": "Spring Boot", "slug": "spring-boot","type": "default"},
-      {"name": "JavaScript", "slug": "javaScript","type": "default"},
-      {"name": "Typescript", "slug": "typescript","type": "default"},
-      {"name": "NodeJS", "slug": "nodejs","type": "default"},
-      {"name": "PHP", "slug": "php","type": "default"},
-      {"name": "Laravel", "slug": "laravel","type": "default"},
-      {"name": "React", "slug": "react","type": "default"}
+      {"name": "Software Architecture", "slug": "software-architecture","type": "default"},
+      {"name": "Web Development", "slug": "web-development","type": "default"},
+      {"name": "API Development", "slug": "api-development","type": "default"},
+      {"name": "Android Development", "slug": "android-development","type": "default"},
+      {"name": "Intranet Development", "slug": "intranet-development","type": "default"},
+      {"name": "Desktop Development", "slug": "desktop-development","type": "default"},
+      {"name": "Quality Assurance", "slug": "quality-assurance","type": "default"},
+      {"name": "Vulnerability Research", "slug": "vulnerability-research","type": "default"},
+      {"name": "Cloud DevOps", "slug": "cloud-devOps","type": "default"},
+      {"name": "Graphic Design", "slug": "graphic-design","type": "default"},
+      {"name": "Leadership", "slug": "leadership","type": "default"}
     ],
     "language": [
       {"name": "French", "slug": "french","rate": "1"},
@@ -96,6 +94,15 @@
         "activity":[],
         "cover": "chronos.png",
         "category": "web"
+    },
+    {
+      "name": "GPR",
+      "slug": "gpr",
+      "year": "2021",
+      "description":"Intranet application for managing consumer complaints, whistleblows and suggestions.",
+      "activity":[],
+      "cover": "gpr.png",
+      "category": "desktop"
     },
     {
       "name": "Portfolix",
