@@ -46,22 +46,22 @@
     "experience": [
       {
         "title": "",
-        "slug": "donaco-sarl",
-        "description":"<p><small className='text-muted company-university'>Senior Software Engineering Consultant, 2020 - Present</small><p className='text-muted mt-2 mb-0'><small><b>Projects: </b>Youpii, Expose8, Chronos</small><br><small><b>Technologies: </b> Youtrack, Gitlab CI/CD, Javascript, React, Jest & Enzyme, Selenium, Java, SpringBoot Reactive, Spring API Gateway, Eureka Service Discovery, Spring Config Server, Resilience4J, Sleuth Tracing, Kafka, PostgreSQL, AWS, Heroku</small><br><small><b>Activities: </b><ul><li>Writing project specification document</li><li>Plan project development</li><li>Design and Development of the android clients</li><li>Design and Development of the web clients</li><li>Design and Development the microservices and APIs</li><li>Manual & Automated testing</li><li>Continuous Deployment and Continuous Integration</li></ul></small></p></p>",
-        "period":"2020 - Present",
-        "company":"DONACO SARL",
+        "slug": "erugis-consulting",
+        "description":"<p><small className='text-muted company-university'>Cloud DevOps & Architect, 2022 - Present</small><p className='text-muted mt-2 mb-0'><small><b>Projects: </b>Uptimise</small><br><small><b>Technologies: </b> Youtrack, Gitlab CI/CD, Javascript, React, Django, Python, Jest & Enzyme, Selenium, Kafka, PostgreSQL, AWS</small><br><small><b>Activities: </b><ul><li>Lead technical and design discussions</li><li>Architect and build highly scalable, cloud-native applications on the AWS platform using core developer services such as: API Gateway, Lambda, SQS, DynamoDB, ECS, EKS and MSK</li><li>Leverage new technology paradigms (e.g., serverless, containers, microservices)</li><li>Migrate monolithic applications to micro services architectures</li><li>Advise on implementing AWS best practices</li><li>Define and enforce AWS Well-Architected pillars: operational excellence, security, reliability, performance efficiency, and cost optimization</li><li>Continuous Deployment and Continuous Integration</li></ul></small></p></p>",
+        "period":"2022 - Present",
+        "company":"ERUGIS",
         "country":"",
-        "logo": "donaco.png",
+        "logo": "erugis.jpg",
         "margin":"3"
       },
       {
         "title": "",
-        "slug": "freelance",
-        "description":"<p><small className='text-muted company-university'>Software Engineer, 2010 - Present</small> <p className='text-muted mt-2 mb-0'><small><b>Projects: </b>PastQ, Emergencia, Rainbow, Exposure, Amilo, Troclivre, Kambio, Becloser, Forxia Investing, Sima, Portfolix, GPR </small><br><small><b>Technologies: </b>Html, Javascript, Php, Laravel, React, Java, Spring Boot Servlet, Electron</small><br><small><b>Activities: </b> <ul> <li>Write project specification document</li> <li>Design the solution</li> <li>Build User Interface Graphics</li> <li>Build the solution</li> <li>Assure quality of the solution</li> <li>Deploy and integrate continuously</li> <li>Write user guides</li> </ul> </small></p> </p> <p class='mb-0'><small className='text-muted company-university'>Security Engineer, 2020 - Present</small> <p className='text-muted mt-2 mb-0'><small class='d-none'><b>Projects: </b>SQLiLab, Nextdoor, CustomInk, Omaze, Lionbridge</small><br><small><b>Tools: </b>Burp suite, zap, xmind, Metasploit, sqlmap, OFFSEC Exploit-db search, XSS Hunter, Shodan, kali linux, Wappalyzer, Google dorks, dirbuster, sublistr, theharvester, nmap, ipscan, live http header, whatweb, builtwith, httrack </small><br><small><b>Activities: </b> <ul> <li>Gather Intel on the target with appropriate tools</li> <li>Organize of the intel gathered on the target to facilitate the research </li> <li>Conduct Test of differents classes vulnerabilities including Sensitive Information Disclosure, Broken Authentication and Authorization, Open Redirect, Subdomain takeover, Cloud storage misconfiguration, Server Side Request Forgery, SQL injection, Cross Site Scripting, Web Cache Poisonning </li> <li>Report of the vulnerabilities identified to the customer </li> <li>Provide support in the mitigation of vulnerabilities</li> <li>Write python script to automate test and monitor</li> <li>Develop Burp extension</li> </ul> </small></p> </p>",
-        "period":"2010 - Present",
-        "company":"FREELANCE",
+        "slug": "donaco-sarl",
+        "description":"<p><small className='text-muted company-university'>Software Development Consultant, 2020 - Present</small><p className='text-muted mt-2 mb-0'><small><b>Projects: </b>Youpii, Expose8, Chronos</small><br><small><b>Technologies: </b> Youtrack, Gitlab CI/CD, Javascript, React, Jest & Enzyme, Selenium, Java, SpringBoot Reactive, Spring API Gateway, Eureka Service Discovery, Spring Config Server, Resilience4J, Sleuth Tracing, Kafka, PostgreSQL, AWS, Heroku</small><br><small><b>Activities: </b><ul><li>Writing project specification document</li><li>Plan project development</li><li>Design and Development of the android clients</li><li>Design and Development of the web clients</li><li>Design and Development the microservices and APIs</li><li>Manual & Automated testing</li><li>Continuous Deployment and Continuous Integration</li></ul></small></p></p>",
+        "period":"2020 - Present",
+        "company":"DONACO SARL",
         "country":"",
-        "logo": "placeholder.png",
+        "logo": "donaco.png",
         "margin":"3"
       },
       {
@@ -73,6 +73,16 @@
           "country":"",
           "logo": "dmd.png",
           "margin":"5"
+      },
+       {
+        "title": "",
+        "slug": "freelance",
+        "description":"<p><small className='text-muted company-university'>Software Engineer, 2010 - Present</small> <p className='text-muted mt-2 mb-0'><small><b>Projects: </b>PastQ, Emergencia, Rainbow, Exposure, Amilo, Troclivre, Kambio, Becloser, Forxia Investing, Sima, Portfolix, GPR </small><br><small><b>Technologies: </b>Html, Javascript, Php, Laravel, React, Java, Spring Boot Servlet, Electron</small><br><small><b>Activities: </b> <ul> <li>Write project specification document</li> <li>Design the solution</li> <li>Build User Interface Graphics</li> <li>Build the solution</li> <li>Assure quality of the solution</li> <li>Deploy and integrate continuously</li> <li>Write user guides</li> </ul> </small></p> </p> <p class='mb-0'><small className='text-muted company-university'>Security Engineer, 2020 - Present</small> <p className='text-muted mt-2 mb-0'><small class='d-none'><b>Projects: </b>SQLiLab, Nextdoor, CustomInk, Omaze, Lionbridge</small><br><small><b>Tools: </b>Burp suite, zap, xmind, Metasploit, sqlmap, OFFSEC Exploit-db search, XSS Hunter, Shodan, kali linux, Wappalyzer, Google dorks, dirbuster, sublistr, theharvester, nmap, ipscan, live http header, whatweb, builtwith, httrack </small><br><small><b>Activities: </b> <ul> <li>Gather Intel on the target with appropriate tools</li> <li>Organize of the intel gathered on the target to facilitate the research </li> <li>Conduct Test of differents classes vulnerabilities including Sensitive Information Disclosure, Broken Authentication and Authorization, Open Redirect, Subdomain takeover, Cloud storage misconfiguration, Server Side Request Forgery, SQL injection, Cross Site Scripting, Web Cache Poisonning </li> <li>Report of the vulnerabilities identified to the customer </li> <li>Provide support in the mitigation of vulnerabilities</li> <li>Write python script to automate test and monitor</li> <li>Develop Burp extension</li> </ul> </small></p> </p>",
+        "period":"2010 - Present",
+        "company":"FREELANCE",
+        "country":"",
+        "logo": "placeholder.png",
+        "margin":"3"
       }
     ],
     "papers": [],

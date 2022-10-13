@@ -36,10 +36,10 @@ function Navigation(){
                     </NavLink>
                 </li>
                 <li className="navbar-item account-menu px-0 mt-2">
-                    <a href={"uploads/cv/"+data.personal.cv.split(";")[0]} className="btn btn-soft-primary w-100" target="_blank"><i className="uil uil-print"></i> Download CV - En</a>
+                    <a href={data.personal.cv.split(";")[0]? data.personal.uploads_dir+"cv/"+data.personal.cv.split(";")[0]:""} className="btn btn-soft-primary w-100" target="_blank"><i className="uil uil-print"></i> Download CV - En</a>
                 </li>
                 <li className="navbar-item account-menu px-0 mt-2">
-                    <a href={"uploads/cv/"+data.personal.cv.split(";")[1]} className="btn btn-soft-primary w-100" target="_blank"><i className="uil uil-print"></i> Download CV - Fr</a>
+                    <a href={data.personal.cv.split(";")[1]? data.personal.uploads_dir+"cv/"+data.personal.cv.split(";")[1]:""} className="btn btn-soft-primary w-100" target="_blank"><i className="uil uil-print"></i> Download CV - Fr</a>
                 </li>
             </ul>
         </div>
